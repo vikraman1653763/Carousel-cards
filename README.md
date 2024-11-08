@@ -13,7 +13,6 @@ Modify the cards array in the Exx component to add or update card content and co
 Adjust animation settings (e.g., duration, easing) in the variants object or transition property for a personalized feel.
 
 
-<video width="100%" controls>
-  <source src="./sample.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# Sample video
+
+[Watch the Demo Video](./sample.webm)
