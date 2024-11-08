@@ -14,7 +14,5 @@ Adjust animation settings (e.g., duration, easing) in the variants object or tra
 
 
 # Sample video
-<video width="100%" height="auto" controls>
-  <source src="./assets/sample.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+
+[sample.webm](https://github.com/user-attachments/assets/85dca2fe-5837-4377-b210-ae50d0688acd)
