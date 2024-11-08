@@ -11,3 +11,9 @@ CSS: For additional styling and layout.
 # Customization
 Modify the cards array in the Exx component to add or update card content and colors.
 Adjust animation settings (e.g., duration, easing) in the variants object or transition property for a personalized feel.
+
+
+<video width="100%" controls>
+  <source src="assets/example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
