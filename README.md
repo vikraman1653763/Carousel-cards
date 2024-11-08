@@ -14,6 +14,6 @@ Adjust animation settings (e.g., duration, easing) in the variants object or tra
 
 
 <video width="100%" controls>
-  <source src="assets/example.mp4" type="video/mp4">
+  <source src="./sample.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
