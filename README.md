@@ -13,6 +13,6 @@ Modify the cards array in the Exx component to add or update card content and co
 Adjust animation settings (e.g., duration, easing) in the variants object or transition property for a personalized feel.
 
 
-# Sample video
+# DEMO
 
 [sample.webm](https://github.com/user-attachments/assets/85dca2fe-5837-4377-b210-ae50d0688acd)
