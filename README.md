@@ -1,6 +1,7 @@
 # Carousel-cards
 Dynamic Animated Carousel with Framer Motion
 
+
 This project is a simple but dynamic animated carousel built using React and Framer Motion, designed to showcase smooth transitions between multiple cards. Each card in the carousel features unique content and a distinct background color, offering a visually appealing and interactive user experience.
 
 # Technologies Used
